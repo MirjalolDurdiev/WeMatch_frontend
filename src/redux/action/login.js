@@ -1,0 +1,2 @@
+const LOGIN_ADMIN = "LOGIN_ADMIN"
+export { LOGIN_ADMIN }

@@ -1,0 +1,66 @@
+import img from "../assets/images/img.png";
+
+const cardData = [
+  {
+    id: 1,
+    image: img,
+    title: "Cybersecurity Awareness Volunteer",
+    text: "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel",
+    payment: "Payment: Unpaid",
+    time: "Period: 3 months",
+    experience: "Experience: required",
+    location: "Location: Tashkent",
+  },
+  {
+    id: 2,
+    image: img,
+    title: "Cybersecurity Awareness Volunteer",
+    text: "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel",
+    payment: "Payment: Unpaid",
+    time: "Period: 3 months",
+    experience: "Experience: required",
+    location: "Location: Tashkent",
+  },
+  {
+    id: 3,
+    image: img,
+    title: "Cybersecurity Awareness Volunteer",
+    text: "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel",
+    payment: "Payment: Unpaid",
+    time: "Period: 3 months",
+    experience: "Experience: required",
+    location: "Location: Tashkent",
+  },
+  {
+    id: 4,
+    image: img,
+    title: "Cybersecurity Awareness Volunteer",
+    text: "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel",
+    payment: "Payment: Unpaid",
+    time: "Period: 3 months",
+    experience: "Experience: required",
+    location: "Location: Tashkent",
+  },
+  {
+    id: 5,
+    image: img,
+    title: "IT Support for Community Centers",
+    text: "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel",
+    payment: "Payment: Unpaid",
+    time: "Period: 3 months",
+    experience: "Experience: required",
+    location: "Location: Tashkent",
+  },
+  {
+    id: 6,
+    image: img,
+    title: "Software Development Volunteer for NGOs",
+    text: "Dolor donec eget morbi nisi. Eu ut et enim ornare nisl vel auctor odio a. Curabitur porttitor quis gravida porttitor vel",
+    payment: "Payment: Unpaid",
+    time: "Period: 3 months",
+    experience: "Experience: required",
+    location: "Location: Tashkent",
+  },
+];
+
+export { cardData };
